@@ -1,3 +1,4 @@
-[submodule "sources/awx"]
+[submodule "awx"]
 	path = sources/awx
 	url = https://github.com/ansible/awx
+	branch = devel
