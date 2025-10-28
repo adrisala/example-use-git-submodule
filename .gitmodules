@@ -1,4 +1,4 @@
-[submodule "shared"]
-	path = shared
+[submodule "awx"]
+	path = source/awx
 	url = https://github.com/ansible/awx
 	branch = devel
